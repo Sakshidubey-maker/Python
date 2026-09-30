@@ -1,0 +1,4 @@
+Hii,
+  currently i am experimenting my work with file handling in python.
+  I am learning python to build my portfolio as AI Enginner,Data Scientist,Data Analyst ,Gen AI, ML etc.
+  So, I am building strong foundation in Python till now i have completed exception handling,pathlib etc. Now started with file handling.
